@@ -1,7 +1,5 @@
-
 // biblioteca  arduino para display
 #include <LiquidCrystal.h>
-
 
 LiquidCrystal lcd(7, 6, 5, 4, 3, 2);  // Pinos display
 const int potenciometro = 0;          // pino de entrada do potenciômetro
